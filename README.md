@@ -10,5 +10,5 @@ Software Engineer
 <!-- - 📫 How to reach me:  -->
 
 <!-- - ⚡ Fun fact: ... -->
-> 'JavaScript is not just a programming language, it's a lifestyle.' - [@kaszubski404](https://twitter.com/kaszubski404)
+> 'JavaScript is not just a programming language, it's a lifestyle.' - [@kaszubski_](https://twitter.com/kaszubski_)
 
