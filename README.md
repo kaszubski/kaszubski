@@ -1,14 +1,11 @@
-### Hi there 👋 I'm Mateusz Kaszubski
-Software Engineer
-- 🔭 I’m working with JS/TS/React/Angular... #frontend
-- 🌱 I’m learning some nodejs/express/nest
-- 😄 Pronouns: he/him 
+### What's the craic? 👋 I'm Mat, 
 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me:  -->
+a Software Engineer with a knack for JavaScript, TypeScript, React, and Web Components. 
 
-<!-- - ⚡ Fun fact: ... -->
-> 'JavaScript is not just a programming language, it's a lifestyle.' - [@kaszubski_](https://twitter.com/kaszubski_)
+Been in the game for over 5 years, leaving a significant mark in finance, banking, and e-commerce. Agile environments and sleek project architecture? That's my turf.
 
+Armed with an Engineering degree and a belief that 'JavaScript is more than code, it's a lifestyle', I'm fluent in English and Polish, with a bit of German to boot. 
+
+Ready to tackle challenges far and wide 💪 
+
+[@kaszubski_](https://twitter.com/kaszubski_)
