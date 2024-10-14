@@ -1,4 +1,4 @@
-### What's the craic? 👋 I'm Mat, 
+### What's the craic? 👋 I'm Matt, 
 
 a Senior Software Engineer with a passion for JavaScript, TypeScript, React, and Stencil.js/Web Components.
 
