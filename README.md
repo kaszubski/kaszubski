@@ -1,11 +1,13 @@
 ### What's the craic? 👋 I'm Matt, 
 
-a Senior Software Engineer with a passion for JavaScript, TypeScript, React, and Stencil.js/Web Components.
+a Creative Technologist and Manager at Asana, architecting the future of work through code and people. 6+ years deep in JavaScript/TypeScript, obsessed with React, Web Components, and Stencil.js, but what really drives me is unlocking team potential at scale.
 
-With over 6 years of experience, I've made significant contributions in finance, banking, and e-commerce. Agile environments and crafting sleek project architectures—that's my turf.
+I've shipped products that millions use in fintech and banking—now I'm focused on building the kind of engineering culture where breakthrough ideas become reality. Design Systems aren't just my thing, they're how we democratize great design and 10x development velocity.
 
-Armed with an Engineering degree and the belief that JavaScript is more than code; it's a lifestyle, I'm fluent in English and Polish, with a bit of German to boot.
+The intersection of technology and human potential is where magic happens. I believe exceptional products come from exceptional teams, and I'm here to prove that systematic thinking + creative problem-solving can transform how we build software.
 
-Ready to tackle challenges far and wide 💪
+Fluent in English and Polish, conversational in German, fluent in turning complex technical challenges into elegant solutions. Always ready to dive deep on architecture, team dynamics, or that wild idea you're convinced could change everything.
+
+Because the best conversations happen when curious minds collide.
 
 [@kaszubski_](https://twitter.com/kaszubski_)
