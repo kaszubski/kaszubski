@@ -1,6 +1,6 @@
 ### What's the craic? 👋 I'm Matt, 
 
-a Lead Creative Technologist & Manager @ Asana | Warsaw
+a Lead Creative Technologist @ Asana | Warsaw
 
 - Design Systems • React • TypeScript • DDD • Event Sourcing • CQRS
 - Blanchard SLII • Engineering Management • Team Scaling
